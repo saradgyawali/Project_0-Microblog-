@@ -1,0 +1,1 @@
+This webpage allows the user to post their blog and save it in LocalStorage.

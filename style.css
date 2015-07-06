@@ -1,0 +1,32 @@
+body {
+	background-image: url(http://www.incomeactivator.com/images/temp5-bg.jpg);
+    background-size: cover;
+
+}
+
+.jumbotron {
+	background-size: cover;
+	
+}
+
+.breadcrumb {
+	background-size: cover;
+	font-size: 16pt;
+}
+
+.jumbotron(p) {
+	font-size: 14pt;
+}
+
+body {
+  font-size: 15px;
+}
+
+.todo:hover, .todo.done {
+  cursor: pointer;
+  text-decoration: line-through;
+}
+
+#blog_area {
+	
+	}
